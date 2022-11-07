@@ -1,0 +1,2 @@
+../Core/Inc/arm_math.h:484:25:clip_q63_to_q31	16	static
+../Core/Inc/StatisticsFunctions/arm_rms_q31.c:73:6:arm_rms_q31	224	static

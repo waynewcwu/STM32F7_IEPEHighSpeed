@@ -1,0 +1,10 @@
+../Core/Src/Calculate_statistic.c:13:6:Initial_AllStatisticValue	4	static
+../Core/Src/Calculate_statistic.c:53:7:CalcluateMean	24	static
+../Core/Src/Calculate_statistic.c:63:7:CalcluateMoment	40	static
+../Core/Src/Calculate_statistic.c:73:7:CalcluateVariance	32	static
+../Core/Src/Calculate_statistic.c:86:7:CalcluateStandardDeviation	16	static
+../Core/Src/Calculate_statistic.c:91:7:Calculate_skewness	40	static
+../Core/Src/Calculate_statistic.c:102:7:Calculate_kurtosis	32	static
+../Core/Src/Calculate_statistic.c:112:6:Calculate_FreqBandRMS	72	static
+../Core/Src/Calculate_statistic.c:163:6:Calculate_FreqOverAll	72	static
+../Core/Src/Calculate_statistic.c:254:7:Calculate_CosineSimilarity	56	static

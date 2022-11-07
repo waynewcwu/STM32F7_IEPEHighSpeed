@@ -1,0 +1,3 @@
+../Drivers/CMSIS/Include/core_cm7.h:2147:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/BLE_USART.c:20:6:BLE_USART	184	static
+../Core/Src/BLE_USART.c:157:7:checkBLECommandFromBLEGateway	32	static
